@@ -10,8 +10,8 @@
 ## Java-Experiment
 Eastern Mediterranean University CMPE 211 Lab Java Experiment
 
-# Compiler: https://www.onlinegdb.com/online_java_compiler
-# Language: Java
+### Compiler: https://www.onlinegdb.com/online_java_compiler
+### Language: Java
 
 ## Done List
 
