@@ -1,0 +1,8 @@
+Enter investment amount: 100.56
+Enter annual interest rate in percentage: 4.25
+Enter number of years: 1
+Accumulated value is $104.91804075209508
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
